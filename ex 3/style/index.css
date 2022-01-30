@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.body{
+    padding: 20px;
+    text-align: center;
+}
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #0091ea;
+    padding: 30px;
+}
+#description{
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+h2{
+    text-decoration: underline 1px #ccc;
+}
+.grayDiv{
+    width: 558px;
+    height: 460px;
+    background-color: #bcbcbc;
+}
+.continer{
+    display: flex;
+    justify-content: center;
+    
+}
+span{
+    width: 500px;
+    height: 100%;
+}
+.clDiv{
+    display: flex;
+    flex-direction: column;
+    width: 100x;
+}

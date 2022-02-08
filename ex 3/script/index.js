@@ -60,7 +60,7 @@ function main() {
     const span3 = document.createElement('span')
         const h23 = document.createElement('h2');
         const p3 = document.createElement('p');
-            h23.textContent = 'Our Vlues'
+            h23.textContent = 'Our Values'
             p3.textContent = `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat dolor reiciendis inventore aliquid optio eveniet rerum magni molestiae, commodi accusamus
         `
         span3.appendChild(h23);

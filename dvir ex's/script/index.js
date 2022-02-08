@@ -6,6 +6,7 @@ const me = {
 };
 function action() {
     let value = document.querySelector('select').selectedIndex;
+    alert(value)
 
     if(value == 1) {
         document.getElementById('theResult').innerHTML = 'my first name is: ' + me.firstName;
